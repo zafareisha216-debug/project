@@ -30,3 +30,9 @@ git diff branch name
 <!-- to check the diff branches -->
 
 git merge branch name
+git checkout -b   new branch name like feature
+aur ik branch s dosri branch m jany k liyay
+git checkout name of branch
+
+for delete branch
+git branch -d branch name
