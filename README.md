@@ -27,6 +27,6 @@ to merge kese kre
 main and features both branches
 
 git diff branch name
-<!-- to check the diff branches -->
+to check the diff branches
 
 git merge branch name
